@@ -12,9 +12,12 @@ aside{
     background: rgb(141, 118, 75);
 }
 
-main {
-    background-color: #000033; /* Azul oscuro */
-    color: #e0e0e0; /* Color de texto más claro */
-    padding: 20px; /* Espacio alrededor del contenido */
-    border-radius: 8px; /* Borde redondeado opcional */
+.book-item img{
+
+    width: 250px; 
+    height: auto;
+}
+
+.book-item{
+    margin-bottom: 20px;
 }
