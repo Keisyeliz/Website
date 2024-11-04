@@ -25,3 +25,28 @@ aside{
 .playlist{
     background: #ecceab;
 }
+
+.book-item img{
+
+    width: 250px; 
+    height: auto;
+}
+
+.book-item{
+    margin-bottom: 20px;
+}
+
+.playlist{
+    background: #ecceab;
+}
+
+main {
+    background-color: #000033; 
+    color: #e0e0e0;
+    
+}
+
+.origami{
+    background: #ecceab;
+    
+}
